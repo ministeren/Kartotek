@@ -12,6 +12,7 @@ public class Kartotek implements EntryPoint {
 	public void onModuleLoad() {
 		
 		new MainView().run();
+		
 
 	}
 }
